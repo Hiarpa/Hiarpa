@@ -6,6 +6,6 @@
 
 ### About me
 I'm a future full-stack developer XD 👨🏿‍💻
-Currently studying at Digital House for the Codigo Preto projectcurrently studying at Digital House for the Codigo Preto project
+Currently studying at Digital House for the Codigo Preto project.
 - [Steam Profile](https://steamcommunity.com/id/hiarpa) 🕹️🔧
 - [Pudim](http://pudim.com.br) 🍮
