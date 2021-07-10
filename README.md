@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white=https://www.instagram.com/hiarpa/)](https://www.instagram.com/hiarpa/)
 
 ### About me
-I'm a future full-stack developer XD 👨🏿‍💻
+I'm a future full-stack developer 👨🏿‍💻
 Currently studying at Digital House for the Codigo Preto project.
 - [Steam Profile](https://steamcommunity.com/id/hiarpa) 🕹️🔧
 - [Pudim](http://pudim.com.br) 🍮
