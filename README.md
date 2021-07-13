@@ -1,6 +1,6 @@
 # Hi, I'm Hiarpa =)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Hiarpa)](https://github.com/Hiarpa)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiarpa/)](https://www.linkedin.com/in/hiarpa/)
+[![Gmail Badge] (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:hiarpanetto@gmail.com)](mailto:someone@microsoft.com)
 
 ### About me
 I'm a future full-stack developer 👨🏿‍💻
