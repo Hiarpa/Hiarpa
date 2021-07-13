@@ -7,4 +7,5 @@ I'm a future full-stack developer 👨🏿‍💻
 Currently studying at Digital House for the Codigo Preto project.
 - [Steam Profile](https://steamcommunity.com/id/hiarpa) 🕹️🔧
 - [Pudim](http://pudim.com.br) 🍮
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiarpa&theme=tokyonight)
