@@ -9,7 +9,6 @@
 - Manaus, Amazonas 🇧🇷
 - Future full-stack developer 👨🏿‍💻
 - Currently studying at Digital House for the Codigo Preto project.
--
 - [Steam Profile](https://steamcommunity.com/id/hiarpa) 🕹️🔧
 - [Pudim](http://pudim.com.br) 🍮
 
