@@ -6,7 +6,6 @@
 - Just a student that loves programming and cockatiels ⌨️🐤
 - 20 years 😆 
 - Pronouns: He/Him 🙋‍♂️ 
-- Manaus, Amazonas 🇧🇷
 - Future full-stack developer 👨🏿‍💻
 - Currently studying at Digital House for the Codigo Preto project.
 - [Steam Profile](https://steamcommunity.com/id/hiarpa) 🕹️🔧
