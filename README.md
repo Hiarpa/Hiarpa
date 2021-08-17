@@ -1,7 +1,7 @@
 ## Hi, I'm Hiarpa =)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hiarpa/)](https://www.linkedin.com/in/hiarpa/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hiarpanetto@gmail.com)](mailto:hiarpanetto@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank=https://instagram.com/hiarpa)](https://instagram.com/hiarpa)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank&link=https://instagram.com/hiarpa)](https://instagram.com/hiarpa)
 <!-- <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 
 ### About me
