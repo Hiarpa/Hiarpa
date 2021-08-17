@@ -3,11 +3,11 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hiarpanetto@gmail.com)](mailto:hiarpanetto@gmail.com)
 
 ### About me
--Just a student that loves programming and cockatiels ⌨️🐤
--20 years 😆 
--Pronouns: He/Him 🙋‍♂️ 
--Manaus, Amazonas 🇧🇷
--Future full-stack developer 👨🏿‍💻
+Just a student that loves programming and cockatiels ⌨️🐤
+20 years 😆 
+Pronouns: He/Him 🙋‍♂️ 
+Manaus, Amazonas 🇧🇷
+Future full-stack developer 👨🏿‍💻
 Currently studying at Digital House for the Codigo Preto project.
 -
 - [Steam Profile](https://steamcommunity.com/id/hiarpa) 🕹️🔧
