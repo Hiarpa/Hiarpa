@@ -6,7 +6,7 @@
 ### About me
 - Just a student that loves programming and cockatiels ⌨️🐤
 - Computer Science 🖥️ 
-- 20 years 😆 
+- 21 years
 - Pronouns: He/Him 🙋‍♂️ 
 - Software Engineer Intern at @QuintoAndar 👨🏿‍💻
 - [Steam Profile](https://steamcommunity.com/id/hiarpa) 🕹️🔧
