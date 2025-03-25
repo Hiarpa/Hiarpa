@@ -4,13 +4,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/hiarpa)](https://instagram.com/hiarpa)
 
 ### About me
-- Just a student that loves programming and cockatiels ⌨️🐤
-- Computer Science 🖥️ 
-- 21 years
+- Just another developer confronting his dailys challenges.
+- Computer Science Student 🖥️ 
 - Pronouns: He/Him 🙋‍♂️ 
-- Software Engineer Intern at @QuintoAndar 👨🏿‍💻
+- Software Engineer at @QuintoAndar 👨🏿‍💻
 - [Steam Profile](https://steamcommunity.com/id/hiarpa) 🕹️🔧
-- [Pudim](http://pudim.com.br) 🍮
 
 
 <div>
