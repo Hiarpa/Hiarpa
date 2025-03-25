@@ -1,7 +1,6 @@
 ## Hi, I'm Hiarpa =)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hiarpa/)](https://www.linkedin.com/in/hiarpa/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hiarpanetto@gmail.com)](mailto:hiarpanetto@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/hiarpa)](https://instagram.com/hiarpa)
 
 ### About me
 - Just another developer confronting his dailys challenges.
