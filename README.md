@@ -4,9 +4,9 @@
 
 ### About me
 - Just another developer confronting his dailys challenges.
-- Computer Science Student 🖥️ 
+- Computer Science degree 🖥️ 
 - Pronouns: He/Him 🙋‍♂️ 
-- Software Engineer at @QuintoAndar 👨🏿‍💻
+- Previously worked at QuintoAndar 👨🏿‍💻
 - [Steam Profile](https://steamcommunity.com/id/hiarpa) 🕹️🔧
 
 
