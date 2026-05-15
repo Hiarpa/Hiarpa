@@ -3,12 +3,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hiarpanetto@gmail.com)](mailto:hiarpanetto@gmail.com)
 
 ### About me
-- Just another developer confronting his dailys challenges.
+- Just another developer confronting his dailys challenges. 🔧
 - Computer Science degree 🖥️ 
 - Pronouns: He/Him 🙋‍♂️ 
 - Previously worked at QuintoAndar 👨🏿‍💻
-- [Steam Profile](https://steamcommunity.com/id/hiarpa) 🕹️🔧
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
